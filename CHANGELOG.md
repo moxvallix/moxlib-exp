@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2023-01-21
 Initial release!
 
+**Moxlib:** v0.5.0
+
 ### Added
 - Added README and LICENSE.
 - Dimension for working with blocks, `moxlib:state`.
