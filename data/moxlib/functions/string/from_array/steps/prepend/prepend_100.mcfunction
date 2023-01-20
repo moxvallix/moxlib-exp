@@ -1,0 +1,2 @@
+scoreboard players remove $prepend moxlib.string.from_array 100
+data modify storage moxlib:string/from_array prepend append value "****************************************************************************************************"

@@ -1,0 +1,9 @@
+{
+  "function": "minecraft:set_name",
+  "entity": "this",
+  "name": {
+    "nbt": "concat",
+    "storage": "moxlib:string/from_array",
+    "interpret": true
+  }
+}

@@ -1,0 +1,2 @@
+# Entity: 7875b3f7-c26b-4c86-b47f-4951874dc90d
+summon armor_stand ~ ~ ~ {UUID:[I;2020979703,-1033155450,-1266726575,-2024945395],Small:1b,Marker:1b,Invisible:1b,HandItems:[{},{id:"minecraft:debug_stick",Count:1b}]}

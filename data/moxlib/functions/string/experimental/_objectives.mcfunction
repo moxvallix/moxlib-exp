@@ -1,0 +1,1 @@
+scoreboard objectives add moxlib.string.from_array dummy

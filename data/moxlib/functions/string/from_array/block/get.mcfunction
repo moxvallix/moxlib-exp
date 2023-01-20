@@ -1,0 +1,1 @@
+data modify storage moxlib:string/from_array cmdout set from block ~ ~ ~ LastOutput
